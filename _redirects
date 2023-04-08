@@ -1,2 +1,3 @@
 /dotfiles https://raw.githubusercontent.com/ryul99/.dotfiles/master/scripts/install 301
 /btop-installer https://gist.githubusercontent.com/ryul99/654abc52c87b28f0da98070cc6ac3b0c/raw/60a008c8ba7ec2cec0a9d6b02519946052a92d7c/btop_installer.sh 301
+/rclone-installer https://gist.githubusercontent.com/ryul99/439749168582bc485476708f51bec47f/raw/050b8ea62b8e52ac551f48f590c20a5ae0553633/rclone-install.sh 301
